@@ -1,0 +1,11 @@
+*.py
+*.cjs
+*.bat
+*.png
+ts/
+test-results/
+node_modules/
+logs/
+docs/
+.wiremock/
+
